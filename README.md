@@ -17,6 +17,23 @@ This project analyzes customer churn data using SQL to identify key factors that
 - Telco Customer Churn Dataset
 - Approximately 7,000 customer records
 
+## Excel Dashboard & Analysis
+
+### Churn Analysis Overview
+![Churn Analysis Chart](images/Churn-analysis-chart.png)
+
+### Average Churn Rate
+![Churn Average](images/Churn-avearge.png)
+
+### Churn Chart
+![Churn Chart](images/Churn-chart.png)
+
+### Sales Trend Analysis
+![Sales Trend](images/Sales trend.png)
+
+### Pivot Table Summary
+![Pivot Table Summary](images/pivot-table-summary.png)
+
 ## Key SQL Queries
 
 ### Total Customers
@@ -40,20 +57,3 @@ GROUP BY tenure_group;
 SELECT Churn, AVG(MonthlyCharges) AS avg_monthly_charges
 FROM churn_data
 GROUP BY Churn;
-
-## Excel Dashboard & Analysis
-
-### Churn Analysis Overview
-![Churn Analysis Chart](images/Churn-analysis-chart.png)
-
-### Average Churn Rate
-![Churn Average](images/Churn-avearge.png)
-
-### Churn Chart
-![Churn Chart](images/Churn-chart.png)
-
-### Sales Trend Analysis
-![Sales Trend](images/Sales trend.png)
-
-### Pivot Table Summary
-![Pivot Table Summary](images/pivot-table-summary.png)
