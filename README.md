@@ -41,8 +41,19 @@ SELECT Churn, AVG(MonthlyCharges) AS avg_monthly_charges
 FROM churn_data
 GROUP BY Churn;
 
-![Excel Dashboard](images/excel dashboard.png)
-![Churn Analysis](images/Churn-analysis-chart.png)
+## Excel Dashboard & Analysis
+
+### Churn Analysis Overview
+![Churn Analysis Chart](images/Churn-analysis-chart.png)
+
+### Average Churn Rate
+![Churn Average](images/Churn-avearge.png)
+
+### Churn Chart
 ![Churn Chart](images/Churn-chart.png)
-![Churn Avearge](images/Churn-avearge.png)
-![Sales Trend](images/Sales-trend.png)
+
+### Sales Trend Analysis
+![Sales Trend](images/Sales trend.png)
+
+### Pivot Table Summary
+![Pivot Table Summary](images/pivot-table-summary.png)
