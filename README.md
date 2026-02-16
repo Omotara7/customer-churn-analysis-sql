@@ -42,7 +42,7 @@ FROM churn_data
 GROUP BY Churn;
 
 ![Excel Dashboard](images/excel dashboard.png)
-![Churn Analysis](images/churn-analysis-chart.png)
-![Churn Chart](images/churn-chart.png)
-![Churn Avearge](images/churn-avearge.png)
-![Sales Trend](images/sales-trend.png)
+![Churn Analysis](images/Churn-analysis-chart.png)
+![Churn Chart](images/Churn-chart.png)
+![Churn Avearge](images/Churn-avearge.png)
+![Sales Trend](images/Sales-trend.png)
