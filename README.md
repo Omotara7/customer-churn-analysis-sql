@@ -40,3 +40,9 @@ GROUP BY tenure_group;
 SELECT Churn, AVG(MonthlyCharges) AS avg_monthly_charges
 FROM churn_data
 GROUP BY Churn;
+
+![Excel Dashboard](images/excel dashboard.png)
+![Churn Analysis](images/churn-analysis-chart.png)
+![Churn Chart](images/churn-chart.png)
+![Churn Avearge](images/churn-avearge.png)
+![Sales Trend](images/sales-trend.png)
