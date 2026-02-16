@@ -1,4 +1,4 @@
-# Customer Churn Analysis Using SQL (MySQL)
+# Customer Churn Analysis Using Excel and SQL (MySQL)
 
 ## Overview
 This project analyzes customer churn data using SQL to identify key factors that contribute to customer attrition and to provide actionable business insights.
@@ -16,6 +16,12 @@ This project analyzes customer churn data using SQL to identify key factors that
 ## Dataset
 - Telco Customer Churn Dataset
 - Approximately 7,000 customer records
+
+## Excel Dashboard
+
+The Excel workbook contains comprehensive churn analysis with interactive visualizations and pivot tables.
+
+📊 **[Download Excel Analysis](customer-churn-analysis.xlsx)**
 
 ## Excel Dashboard & Analysis
 
